@@ -151,6 +151,7 @@ visualize_patterns_line(party_wear_result, 'Party Wear')
 ```
 
 ### Output:
+![Screen Shot 2024-10-18 at 21 30 11](https://github.com/user-attachments/assets/882ca683-787c-445a-aa40-639a7fbbba8f)
 
 ### Result:
 
